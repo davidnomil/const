@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constructivismo ruso</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!--css propio-->
+    <link rel="stylesheet" href="../css/styles.css">
+    <!--google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ysabeau+SC&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-md navbar-light">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-Toggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbar-Toggler">
+            <a class="navbar-brand" href="#">
+              <img src="../assets/identificador.png" width="50" alt="Logo de la pagina web">
+            </a>
+            <ul class="navbar-nav d-flex justify-content-center align-items-center">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Imagenes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Video</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+    </nav>
+    
+    <div class="head">
+
+        <div class="logo">
+            <img src="assets/cons ruso 2.jpg" alt="" srcset="">
+            <a href="#">logo</a>
+        </div>
+    <nav class="navbar">
+        <a href="#">Que es?</a>
+        <a href="#">Inicios</a>
+        <a href="#">Diseño constructivista</a>
+        <a href="#">Arte y revolusión</a>
+        <a href="#">Legado</a>
+    </nav>
+        
+    </div>
+
+    <header class="content header">
+        <h2 class="title">¿Que es el constructivismo ruso?</h2>
+        <p>
+            El constructivismo es un movimiento artístico y arquitectónico que surgió en Rusia en 1914 y se hizo especialmente presente después de la Revolución de Octubre.
+El término construction art ("arte para construcción") fue utilizado por primera vez, de manera despectiva, por Kasimir Malévich para describir el trabajo de Aleksandr Ródchenko en 1917.
+Además del constructivismo ruso o soviético, que se vincula al suprematismo y al rayonismo o cubismo abstracto; se habla también de un "constructivismo holandés": el neoplasticismo de Piet Mondrian, Theo van Doesburg y el grupo De Stijl 
+Sus obras fueron difusoras de las propagandas Revolucionarias, y realizaban carteles, propagandas, fotografías, ilustraciones, etc. Formalmente, las imágenes tenían un predominio de formas geométricas y lineales.
+        </p>
+
+        <div class="btn-home">
+            <a href="https://www.connectionsbyfinsa.com/que-es-el-constructivismo-ruso/" class="btn">saber más</a>
+            
+        </div>
+    </header>
+
+    <section class="content sau">
+
+        <h2 class="title">Inicios</h2>
+        <p>El término «constructivismo» aparece por primera vez como algo positivo en el Manifiesto Realista (1920) de Naum Gabo. Alekséi Gan utilizó la palabra como el título de su libro Constructivism, impreso en 1922. Aplicó el constructivismo a su trabajo, mientras que su abstracción geométrica se debió, en parte, al suprematismo de Kasimir Malévich.
+            La base de enseñanza para el nuevo movimiento fue implantada por el Comisariado del Pueblo para la Educación (o Narkomprós) del gobierno bolchevique (o Sovnarkom), dirigido por Anatoli Lunacharski, que en 1918 suprimió la Academia Imperial de las Artes de Petrogrado y la Escuela de Pintura, Escultura y Arquitectura de Moscú. La oficina artística del Comisariado funcionó durante la Guerra Civil rusa principalmente dirigida por futuristas, que publicaron el diario Arte de la Comuna. El centro del constructivismo en Moscú residía en Vjutemás: la escuela para el arte y el diseño, establecida en 1919. Naum Gabo señalaría más adelante que la enseñanza en la escuela fue orientada más a la discusión política e ideológica que a la creación artística.
+            </p>
+            
+            <a href="https://www.tumblr.com/fanyxxu/87936793575/as%C3%AD-inici%C3%B3-el-constructivismo-antecedentes" class="btn">saber más</a>
+
+            <div class="box-container">
+                <div class="box">
+                    <i class="fa-angular"></i>
+                    <h3>Diseño constructivista</h3>
+                    <p>La obra canónica del constructivismo fue la propuesta de Vladímir Tatlin para el Monumento a la Tercera Internacional (1919)3 que combinaba una estética de máquina con componentes dinámicos que celebraban la tecnología, como los reflectores y las pantallas de proyección. Gabo Diem criticó públicamente el diseño de Tatlin diciendo «O se crean casas y puentes funcionales o el puro arte por el arte, pero no ambos». Esto llevó a una división importante dentro del grupo de Moscú en 1920 cuando el Manifiesto Realista (de Naum Gabo y Antoine Pevsner) afirmó la existencia de un núcleo espiritual para el movimiento. Esto se oponía a la versión del constructivismo adaptable y utilitario que sostenían Tatlin y Ródchenko. La obra de Tatlin fue inmediatamente alabada por artistas en Alemania como una revolución en el arte: una foto de 1920 muestra a George Grosz y John Heartfield sosteniendo una pancarta diciendo «El arte está muerto. ¡Larga vida al arte de la máquina de Tatlin!», mientras que los diseños para la torre se publicaron en la revista de Bruno Taut Fruhlicht.</p>
+                </div>
+                
+                <a href="https://www.clickprinting.es/blog/influencia-constructivismo-diseno-grafico#:~:text=El%20constructivismo%20tiene%20un%20origen,el%20rojo%20o%20el%20blanco." class="btn">saber más</a>
+
+            </div>
+    </section>
+
+    <section class="content about">
+
+        <h2 class="title">Arte y revolusión</h2>
+        <p>Así como estuvieron envueltos en propuestas objetuales utilitarias para la industria, los constructivistas trabajaron en festivales públicos y diseños de carteles callejeros para el gobierno de la revolución bolchevique post-Octubre. Quizás el más famoso de esos se dio en Vítebsk, donde el grupo UNOVIS de Kazimir Malévich pintó placas de propagandas y edificios (el más conocido era el póster de El Lissitzky: Golpea a los blancos con la cuña roja (de 1919). Inspirado por la declaración de Vladímir Mayakovski «las calles son nuestros pinceles, las plazas son nuestras paletas», artistas y diseñadores participaron en la vida pública durante la Guerra civil rusa.
+            Una instancia determinante fue el festival propuesto para el congreso del Comintern en 1921 por Aleksandr Vesnín y Liubov Popova, que reensamblará las construcciones de la exhibición OBMOJU así como realizará trabajos para el teatro. Hubo un gran momento en este periodo entre el constructivismo y el Proletkult, cuyos ideales concernieron en la necesidad de crear una estructura cultural completamente nueva y acorde a los constructivistas. En suma algunos de los constructivistas estuvieron fuertemente envueltos en la «Ventanas ROSTA», una campaña de información pública bolchevique alrededor de los años veinte. Algunos de los más famosos de esta fueron el pintor y poeta Vladímir Mayakovski.
+            </p>
+            
+            <a href="https://www.artlex.com/es/movimientos-artisticos/constructivismo/#:~:text=El%20constructivismo%20fue%20un%20movimiento,uso%20de%20materiales%20industriales%20modernos." class="btn">saber más</a>
+    </section>
+    <section class="content about">
+
+        <h2 class="title">Legado</h2>
+        <p>Varios constructivistas daban clases o conferencias en las escuelas Bauhaus de Alemania, y algunos de los métodos de enseñanza de Vjutemás fueron adoptados y desarrollados allí. Gabo estableció una versión del constructivismo en Inglaterra durante las décadas de 1930 y 1940 que fue adoptada por arquitectos, diseñadores y artistas después de la Primera Guerra Mundial (véase Victor Pasmore), y John McHale. Joaquín Torres García y Manuel Rendón contribuyeron a difundir el constructivismo por Europa y América Latina. El constructivismo tuvo un efecto en los maestros modernos de América Latina como: Carlos Mérida, Enrique Tábara, Aníbal Villacís, Theo Constanté, Oswaldo Viteri, Estuardo Maldonado, Luis Molinari, Carlos Catasse, João Batista Vilanova Artigas y Oscar Niemeyer, por citar algunos. También ha habido discípulos en Australia, siendo el pintor George Johnson el más conocido. En Nueva Zelanda, las esculturas de Peter Nicholls muestran la influencia del constructivismo.
+            En la década de 1980, el diseñador gráfico Neville Brody utilizó estilos basados en los carteles constructivistas que iniciaron un renacimiento del interés popular. También durante la década de 1980 el diseñador Ian Anderson fundó The Designers Republic, una exitosa e influyente empresa de diseño que utilizó los principios constructivistas.
+            </p>
+            
+            <a href="https://www.notasperiodismopopular.com.ar/2017/07/04/constructivismo-nuevas-formas-mundo-nuevo-i-2/#:~:text=El%20legado%20del%20constructivismo%20ruso,%2Dburgu%C3%A9s%20y%20anti%2Dclasicista." class="btn">saber más</a>
+
+    </section>
+
+    <section>
+        <h2>El cornudo magnánimo en el Teatro Meyerhold, Moscú, 1922</h2>
+        <figure class="El cornudo magnánimo en el Teatro Meyerhold">
+           <img src="assets/Lyubov Popova, cartel con una maqueta de la escenografía de El cornudo magnánimo en el Teatro Meyerhold, Moscú, 1922..jpg" alt="Lyubov Popova, cartel con una maqueta de la escenografía de El cornudo magnánimo en el Teatro Meyerhold, Moscú, 1922." height="980px" width="980px">
+        </figure>
+    </section>
+
+    <section>
+        <h2>Lissitzky, Batir a los blancos con la cuña roja, 1919-1920</h2>
+    <img src="assets/El Lissitzky, Batir a los blancos con la cuña roja, 1919-1920, litografía.png" alt="El Lissitzky, Batir a los blancos con la cuña roja, 1919-1920, litografía" height="980px" width="980px">
+    </section>
+
+    <section>
+        <h2>Vladimir Mayakovsky, Afiche de AgitProp  1920</h2>
+        <img src="assets/Vladimir Mayakovsky, Afiche de AgitProp  1920.jpg" alt="Vladimir Mayakovsky, Afiche de AgitProp  1920" srcset="Vladimir Mayakovsky, Afiche de AgitProp  1920" height="980px" width="980px">
+    </section>
+
+    <section>
+        <h2>Vladimir Tatlin y una maqueta de su Monumento a la Tercera Internacional, Moscú, 1920</h2>
+        <img src="assets/Vladimir Tatlin y una maqueta de su Monumento a la Tercera Internacional, Moscú, 1920.jpg" alt="Vladimir Tatlin y una maqueta de su Monumento a la Tercera Internacional, Moscú, 1920" srcset="" height="980px" width="980px">
+    </section>
+
+    <h2>artistas del constructivismo</h2>
+    <ul>
+    <li>Iván Fomín (1872-1936)</li>
+    <p>Este arquitecto ruso fue el principal exponente del arte constructivista dentro del ámbito arquitectónico, dando importantes aportes a esta área después de la Revolución Rusa, llevando técnicas propias del Art nouveau y neoclasicismo al constructivismo ruso. De este último estilo, vale la pena mencionar las siguientes construcciones:
+
+    -Casa de la Sociedad «Dynamo», 1928
+    -Proyecto del Palacio de los Soviets, 1932
+    -Terminal ferroviaria de Kursky, 1934
+    -Primeras estaciones del metro de Moscú, 1934</p>
+
+    <li>Aleksandr Rodchenko (1891-1956)</li>
+    <p>Otro polifacético creador que es considerado el fundador del constructivismo ruso, donde sobresalió no solo por sus obras sino también por su rol como docente e impulsor de diversas escuelas de arte y reorganización de museos para la Revolución Rusa.
+    De sus piezas podemos nombrar:
+
+    -Diseño de agricultura industrial para un anuncio de Moscú, 1923
+    -Contratapa para uno de los libros del poeta Vladímir Mayarovki, 1926
+    -Póster de la película La sexta parte del mundo, 1926.
+    </p>
+
+    <li>El Lissitky (1890-1941)</li>
+    <p>Polifacético artista que destacó sobre todo, en el diseño gráfico orientado para la propaganda de la Unión Soviética. Reconocido como una importante figura vanguardia, este artista plástico, formado en la Universidad Técnica de Praga, contribuyó también al desarrollo del suprematismo, corriente inspiradora del constructivismo ruso.
+
+        Entre sus obras se encuentran:
+        
+       - Golpea a los blancos con la cuña roja, cartel de 1919
+        -La portada del libro Arba’ah Teyashim, 1922
+        -El cartel publicitario de la exposición rusa presentada en Kunstgewerbemuseum, Zúrich, 1929
+        -Cartel ¡Dadnos más tanques!, de 1941, última obra de Lissitsky.</p>
+
+    <li>Vladimir Tatlin (1885-1953)</li>
+
+    <p>Fue un pintor y escultor importante dentro del arte constructivista, además de tener otras obras de diseño y decorado teatral. Fue uno de los pioneros del constructivismo ruso como vanguardia, con lo cual logró llamar la atención por sus interesantes propuestas y proyectos, siendo el más destacado de todos su torre-monumento a la Tercera Internacional, ideada en 1920 como una estructura futurista.</p>
+        
+    <li></li>
+
+    <p></p>
+
+    <li></li>
+    
+    <li></li>
+    
+    <p></p>
+    
+    <li></li>
+    
+    <p></p>
+    </ul>
+
+</body>
+</html>
